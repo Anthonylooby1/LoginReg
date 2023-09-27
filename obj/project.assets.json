@@ -787,11 +787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anthony\\Desktop\\coding dojo files\\Class\\C#\\LoginReg\\LoginReg.csproj",
+      "projectUniqueName": "C:\\Users\\Anthony\\Desktop\\coding dojo files\\Class\\C#\\LoginReg - Copy\\LoginReg.csproj",
       "projectName": "LoginReg",
-      "projectPath": "C:\\Users\\Anthony\\Desktop\\coding dojo files\\Class\\C#\\LoginReg\\LoginReg.csproj",
+      "projectPath": "C:\\Users\\Anthony\\Desktop\\coding dojo files\\Class\\C#\\LoginReg - Copy\\LoginReg.csproj",
       "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anthony\\Desktop\\coding dojo files\\Class\\C#\\LoginReg\\obj\\",
+      "outputPath": "C:\\Users\\Anthony\\Desktop\\coding dojo files\\Class\\C#\\LoginReg - Copy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\WindowsApps\\NuGetPackages"

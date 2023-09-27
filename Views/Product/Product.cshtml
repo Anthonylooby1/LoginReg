@@ -1,4 +1,4 @@
-@model User
+@model Product
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
         <h1 class="h2 border border-secondary border-3 rounded-3" style="background-color: rgb(0, 0, 0); color: white">ToolChex</h1>
@@ -22,40 +22,25 @@
         </div>
     </div>
 </nav>
-<div class="text-center">
-    <h1>Register New User</h1>
-</div>
-
+<h1 class="text-center">Add Product</h1>
 <div class="mt-4 border border-primary border-3 rounded-3 w-50 p-3 col-md-6 offset-md-3" style="background-color: rgb(218, 218, 218);">
-    <form asp-action="RegisterUser" asp-controller="User" method="post">
+    <form asp-action="CreateProduct" asp-controller="Product" method="post">
         <div class="mb-3">
-            <label asp-for="EmployeeId" class="form-label">Employee Id</label>
-            <input asp-for="EmployeeId" class="form-control" />
-            <span asp-validation-for="EmployeeId"></span>
-        </div>
-        <div class="mb-3">
-            <label asp-for="Level" class="form-check-label">Admin</label>
-            <input type="radio" asp-for="Level" value="1" class="form-check-input" />
-            <label asp-for="Level" class="form-check-label">User</label>
-            <input type="radio" asp-for="Level" value="2" class="form-check-input" />
-            <span asp-validation-for="Level"></span>
-        </div>
-        <div class="mb-3">
-            <label asp-for="Name" class="form-label">Name</label>
+            <label asp-for="Name" class="form-label">Product Name: </label>
             <input asp-for="Name" class="form-control" />
             <span asp-validation-for="Name"></span>
         </div>
         <div class="mb-3">
-            <label asp-for="Password" class="form-label">Password</label>
-            <input asp-for="Password" class="form-control" />
-            <span asp-validation-for="Password"></span>
+            <label asp-for="Description" class="form-label">Description</label>
+            <input asp-for="Description" class="form-control" />
+            <span asp-validation-for="Description"></span>
         </div>
         <div class="mb-3">
-            <label asp-for="ConfirmPassword" class="form-label">Confirm Password</label>
-            <input type="password" asp-for="ConfirmPassword" class="form-control" />
-            <span asp-validation-for="ConfirmPassword"></span>
+            <label asp-for="ImgURL" class="form-label">Product ImgURL</label>
+            <input asp-for="ImgURL" class="form-control" />
+            <span asp-validation-for="ImgURL"></span>
         </div>
-        <button type="submit" class="btn btn-primary">Register</button>
+        <button type="submit" class="btn btn-primary">Add Product</button>
 
     </form>
 

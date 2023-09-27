@@ -9,49 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LoginReg
 build_property.RootNamespace = LoginReg
-build_property.ProjectDir = C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg\
+build_property.ProjectDir = c:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg
+build_property.MSBuildProjectDirectory = c:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg/Views/Shared/Error.cshtml]
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/Product/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/Product/ViewProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxWaWV3UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg/Views/Shared/_NoNav.cshtml]
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/Shared/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/Shared/_NoNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob05hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg/Views/User/Home.cshtml]
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/User/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/User/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg/Views/User/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg/Views/User/_Login.cshtml]
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/User/_Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxfTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg/Views/User/_Register.cshtml]
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/User/_Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxfUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg/Views/_ViewImports.cshtml]
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg/Views/_ViewStart.cshtml]
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg/Views/Shared/_Layout.cshtml]
+[c:/Users/Anthony/Desktop/coding dojo files/Class/C\#/LoginReg - Copy/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w81lvbtrrz

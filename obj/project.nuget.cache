@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MZjxpMRQaTJ479vWLz36rsU/A44WD/f13sJFwkmwV+qOIX2fKCf2opwFcRTQQqu0h0U/lQnYjNiHMOKdBAYoWw==",
+  "dgSpecHash": "HJy+LoC6wwXxilZMtshlEsSwCf2JF6UPUhxjBnJGGgs/BLdVvWQIsV/I7wJ9cHb/RLCxrw0FdiZOpGG86jmwVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anthony\\Desktop\\coding dojo files\\Class\\C#\\LoginReg\\LoginReg.csproj",
+  "projectFilePath": "C:\\Users\\Anthony\\Desktop\\coding dojo files\\Class\\C#\\LoginReg - Copy\\LoginReg.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anthony\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Anthony\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",

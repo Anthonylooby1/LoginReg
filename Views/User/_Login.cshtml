@@ -1,17 +1,67 @@
 @model LogUser
 
 <form asp-action="LoginUser" asp-controller="User" method="post">
-    <h2>Login</h2>
-    <div>
-        <label asp-for="LogEmail">Email</label>
-        <input asp-for="LogEmail" />
-        <span asp-validation-for="LogEmail"></span>
-    </div>
-    <div>
-        <label asp-for="LogPassword">Password</label>
-        <input asp-for="LogPassword" />
-        <span asp-validation-for="LogPassword"></span>
-    </div>
-    <button type="submit">Login</button>
+    <div class="mt-4 border border-primary border-3 rounded-3 w-50 p-3 col-md-6 offset-md-3" style="background-color: rgb(218, 218, 218);">
 
+        <div class="form-outline mb-4 ">
+            <div class="form-outline mb-4">
+                <label asp-for="LogEmployeeId" class="h5">Employee ID</label>
+            </div>
+            <div class="form-outline mb-4">
+                <input asp-for="LogEmployeeId" class="rounded-2"/>
+            </div>
+            <span asp-validation-for="LogEmployeeId"></span>
+        </div>
+        <div class="form-outline mb-4">
+            <div class="form-outline mb-4">
+                <label asp-for="LogPassword" class="h5">Password</label>
+            </div>
+            <div class="form-outline mb-4">
+                <input asp-for="LogPassword" class="rounded-2"/>
+            </div>
+            <span asp-validation-for="LogPassword"></span>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block mb-4">Enter</button>
+    </div>
 </form>
+
+@* <div class="container mt-4">
+    <div class="d-flex justify-content-center">
+        <div>
+            <button>1</button>
+        </div>
+        <div>
+            <button>2</button>
+        </div>
+        <div>
+            <button>3</button>
+        </div>
+    </div>
+    <div class="d-flex justify-content-center">
+        <div>
+            <button>4</button>
+        </div>
+        <div>
+            <button>5</button>
+        </div>
+        <div>
+            <button>6</button>
+        </div>
+    </div>
+    <div class="d-flex justify-content-center">
+        <div>
+            <button>7</button>
+        </div>
+        <div>
+            <button>8</button>
+        </div>
+        <div>
+            <button>9</button>
+        </div>
+    </div>
+    <div class="d-flex justify-content-center">
+        <div>
+            <button>0</button>
+        </div>
+    </div>
+</div> *@

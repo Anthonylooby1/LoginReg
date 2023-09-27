@@ -37,3 +37,42 @@ C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg\obj\Debug\net7.0\re
 C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg\obj\Debug\net7.0\LoginReg.pdb
 C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg\obj\Debug\net7.0\LoginReg.genruntimeconfig.cache
 C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg\obj\Debug\net7.0\ref\LoginReg.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\appsettings.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\LoginReg.staticwebassets.runtime.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\LoginReg.exe
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\LoginReg.deps.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\LoginReg.runtimeconfig.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\LoginReg.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\LoginReg.pdb
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\LoginReg.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\LoginReg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\LoginReg.AssemblyInfoInputs.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\LoginReg.AssemblyInfo.cs
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\LoginReg.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\LoginReg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\LoginReg.RazorAssemblyInfo.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\LoginReg.RazorAssemblyInfo.cs
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\staticwebassets\msbuild.LoginReg.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.LoginReg.props
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LoginReg.props
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LoginReg.props
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\scopedcss\bundle\LoginReg.styles.css
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\scopedcss\projectbundle\LoginReg.bundle.scp.css
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\LoginReg.csproj.CopyComplete
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\LoginReg.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\refint\LoginReg.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\LoginReg.pdb
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\LoginReg.genruntimeconfig.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\LoginReg - Copy\obj\Debug\net7.0\ref\LoginReg.dll

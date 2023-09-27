@@ -3,6 +3,7 @@ using System;
 using LoginReg.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LoginReg.Migrations
 {
     [DbContext(typeof(MyContext))]
-    partial class MyContextModelSnapshot : ModelSnapshot
+    [Migration("20230915175442_Bruh")]
+    partial class Bruh
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -87,17 +89,12 @@ namespace LoginReg.Migrations
             modelBuilder.Entity("LoginReg.Models.Product", b =>
                 {
                     b.HasOne("LoginReg.Models.User", "OneUser")
-                        .WithMany("AllProducts")
+                        .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("OneUser");
-                });
-
-            modelBuilder.Entity("LoginReg.Models.User", b =>
-                {
-                    b.Navigation("AllProducts");
                 });
 #pragma warning restore 612, 618
         }

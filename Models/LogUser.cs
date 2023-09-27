@@ -7,13 +7,13 @@ namespace LoginReg.Models;
 public class LogUser 
 {
     [Required]
-    [EmailAddress]
-    [Display(Name = "Email")]
-    public string LogEmail {get;set;}
+    [Display(Name = "EmployeeId")]
+    public int LogEmployeeId {get;set;}
 
     [Required]
     [Display(Name = "Password")]
     [DataType(DataType.Password)]
     [MinLength(8, ErrorMessage = "Password must be at least 8 characters")]
     public string LogPassword {get;set;}
+
 }
